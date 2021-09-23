@@ -1,6 +1,9 @@
 # word-race-backend
 
-#### Property Pro Lite is a platform where people can create and/or search properties for sale or rent. 
+#### Word Race is a game designed to improve QWERTY typing rate and efficiency. 
+Words appear one by one at a rate that goes up as time progresses. There’s a limited “stack 
+space” that fills up after a certain amount of words have appeared. Once a player types 
+a word correctly, that word is removed from the stack.
 
 - HOSTED API link:'https://wordrace-backend.herokuapp.com/api/v1'
 
@@ -29,15 +32,8 @@ To get the project up and running on your local machine, please follow these ins
  `````
  ## Required Features
  
- - User can sign up.
- - User can login.
- - User (agent) can post a property advert.
- - User (agent) can update the details of a property advert.  
- - User (agent) can mark his/her posted advert as sold.  
- - User (agent) can delete a property advert.  
- - User can view all properties adverts. 
- - User can view all properties of a specific type - 2 bedroom, 3 bedroom, mini flat etc.  
- - User can view a specific property advert. 
+ - save results
+ - view results
 
 ## Optional Features
 
