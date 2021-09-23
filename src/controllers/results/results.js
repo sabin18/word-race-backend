@@ -9,7 +9,9 @@ const MyIp=ip.address();
 console.log(MyIp)
 class ResultsController {
 static  async GetAllReults(req,res){
-    const results = await models.results.findAll({ where:{ip:MyIp}})
+    const results = await models.results.findAll({ where:{ip:MyIp},limit: 10,order: [
+      ['score', 'DESC'] 
+  ],})
    return response (res,200,'',results)
 }
 
