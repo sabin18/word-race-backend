@@ -14,7 +14,7 @@ To get the project up and running on your local machine, please follow these ins
 
 - Clon this project on your machine , by running this command on in your command line or Terminal:
  ```
- git clone https://github.com/sabin18/PropertyPro-lite-.git
+ git clone https://github.com/sabin18/word-race-backend.git
  
  ````
  - Install the required dependencies found in package.json by running this command:
@@ -46,8 +46,8 @@ To get the project up and running on your local machine, please follow these ins
  
 | HTTP MEHOD | ENDPOINTS                       | ACCESS                       | DESCRIPTION                           |
 |------------|---------------------------------|------------------------------|---------------------------------------|
-| POST       | /api/v1/results/                | private(user)                | save results                        |
-| GET        | /api/v1/results/                | public                       | get all results                     |
+| POST       | /api/v1/results/                | private(user)                | save results                          |
+| GET        | /api/v1/results/                | public                       | get all results                       |
 
   
 ## Frontend
@@ -62,7 +62,6 @@ To get the project up and running on your local machine, please follow these ins
  - Mocha
  - Chai
  ## OTHER TOOLS USED IN THIS PROJECT
- 
 
 - Linter
  #### ESLint - Linter Tool
