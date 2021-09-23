@@ -75,10 +75,5 @@ To get the project up and running on your local machine, please follow these ins
 ```
   Babel - Compiler for Next Generation JavaScript(ES6).
 ```
-```
--Pivotal Tracker  Link:https://www.pivotaltracker.com/n/projects/2356989
-```
-Project is currently being managed with Pivotal Tracker, a project management tool. You can find the stories on the PropertyPro-lite Pivotal Tracker Board
-```
 - Author:
  ### izere Roger Sabin 
