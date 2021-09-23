@@ -46,7 +46,7 @@ To get the project up and running on your local machine, please follow these ins
  
 | HTTP MEHOD | ENDPOINTS                       | ACCESS                       | DESCRIPTION                           |
 |------------|---------------------------------|------------------------------|---------------------------------------|
-| POST       | /api/v1/results/                | private(user)                | save results                          |
+| POST       | /api/v1/results/                | public                       | save results                          |
 | GET        | /api/v1/results/                | public                       | get all results                       |
 
   
@@ -54,6 +54,7 @@ To get the project up and running on your local machine, please follow these ins
 
  - HTML
  - CSS -Javascript
+ - React
 
 ## Backend
 
